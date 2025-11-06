@@ -3,3 +3,5 @@
 Programme pour dessiner une courbe sur App Inventor 2
 
 Le programme va lire les diemnsions du CANVAS et positionne les axes et la courbe en fonction des données entrées par l'utlisateur.
+
+https://github.com/CYV/AI2_courbe/blob/main/Courbe%20sur%20AI2.pdf
